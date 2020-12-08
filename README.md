@@ -14,3 +14,5 @@ Frequencies used in the model:
 1000 Hz
 1500 Hz
 2000 Hz
+
+As we increase the frequency, the sine wave in the scope gets distorted. We can still see the operation of the filter as the magnitude of the output is increasing as the frequency increases.
